@@ -1,0 +1,39 @@
+body{
+    background: linear-gradient(to right, skyblue, white);
+}
+.All{
+    border:2px solid white;
+    box-sizing: border-box;
+    box-shadow: inset;
+    position:fixed;
+    top:20%;
+    left:20%;
+    display:flex;
+   
+   
+
+    
+}
+.header{
+    font-style: bold;
+    color:white;
+    margin:2px;
+    padding:2px;
+   
+
+
+}
+.form{
+    margin:2px;
+    padding:2px;
+    border: 2px solid white;
+    border-radius: 2px;
+
+}
+.gender{
+    margin: 2px;
+        padding: 2px;
+        border: 2px solid white;
+        border-radius: 2px;
+
+}
